@@ -25,6 +25,6 @@ public class FactorialComparison {
         System.out.println("Iterative factorial of " + n + ": " + iterativeResult);
         // System.out.println("Recursive time: " + recursiveTime / 1000000.0 + " milliseconds");
         // System.out.println("Iterative time: " + iterativeTime / 1000000.0 + " milliseconds");
-        System.out.println((recursiveTime > iterativeTime ? "Recursive time > Iterative time: " : "Iterative time >= Recursive time: "));
+        System.out.println((recursiveTime > iterativeTime ? "Recursive time > Iterative time" : "Iterative time >= Recursive time"));
     }
 }

@@ -3,7 +3,7 @@
 #### Bowie State University
 #### Department of Computer Science
 #### COSC 113, Section 002, Spring 2025
-#### Homework 4, 9<sup>th</sup> April 2025
+#### Homework 5, 9<sup>th</sup> April 2025
 #### Instructor: Dr. Devharsh Trivedi, Ph.D.
 
 

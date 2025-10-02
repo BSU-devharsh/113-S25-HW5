@@ -1,6 +1,6 @@
 // Write your Name here
 
-// Part 5 - Stack Data Structure
+// 5. Stack Data Structure
 // (Tip: To identify and fix the errors, go to Pull requests >> Feedback >> Checks >> Autograding test results)
 
 

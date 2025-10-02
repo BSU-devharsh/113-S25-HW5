@@ -1,6 +1,6 @@
-// 4. Factorial comparison with Recursion
 // Write your name here
 
+// 4. Factorial comparison with Recursion
 
 public class FactorialComparison {
 
